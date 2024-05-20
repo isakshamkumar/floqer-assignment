@@ -1,0 +1,13 @@
+.lineGraph {
+  width: 50vw;
+  height: 400px;
+  margin: auto;
+}
+.data{
+    padding: 0 1rem;
+}
+@media (max-width: 576px) {
+  .lineGraph {
+    display: none;
+  }
+}
